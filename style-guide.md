@@ -1,4 +1,4 @@
-# Keap challenge style guide
+# Keap style guide
 
 ## Layout
 
