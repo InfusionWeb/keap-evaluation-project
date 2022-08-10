@@ -6,6 +6,8 @@ Using JavaScript and any framework, your assignment is to implement a responsive
 
 The design team at Keap has provided you with designs for a new sign-up form! Using this Github repository as your template, your task is to build out the project to the designs provided inside the `/design` folder. You will find both a mobile and a desktop version of the design to work with. In addition to the contents of the `/design` folder you will also have a Figma link in the email you received containing the projects instructions. Feel free to reference it as much as you need. You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
+For colors and fonts please refer to the [Style Guide](style-guide.md)
+
 ### Tasks
 
 -   Implement assignment using:
