@@ -34,7 +34,7 @@ The design team at Keap has provided you with designs for a new sign-up form! Us
 
 Make sure to include all source code in the submitted repository.
 
-### CodeSubmit
+### Submiting your project
 
 Please organize, design, test and document your code as if it were going into production - then push your changes to your git's master branch. After you have pushed your code, please provide a link to this project in your response to the hiring manager. Ensure that the repo containing this project is public so we may review it.
 
