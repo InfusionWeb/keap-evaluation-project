@@ -41,6 +41,8 @@ The designs were created to the following widths:
 
 - Family: [Roboto](https://fonts.google.com/specimen/Roboto)
 - Weights: 700
+- Applies to: headers
 
 - Family: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
 - Weights: 400, 700
+- Applies to: body, buttons, inputs, links
