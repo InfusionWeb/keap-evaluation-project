@@ -19,7 +19,7 @@ For colors and fonts please refer to the [Style Guide](style-guide.md)
     -   Receive an error message when the `form` is submitted if:
         -   Any `input` field is empty. The message for this error should say _"[Field Name] cannot be empty"_
         -   The email address is not formatted correctly (i.e. a correct email address should have this structure: `name@host.tld`). The message for this error should say _"Looks like this is not an email"_
-        -   The API call catches something not caught by the js and returns an unsuccessful response (i.e. email@example.com is used)
+        -   The API catches something not caught by the js and returns an unsuccessful response (i.e. email@example.com is used)
     -   Show the success thank-you message as shown in the design.
 -   You will find all the required assets in the `/images` folder. The assets are already optimized.
 -   There is also a `style-guide.md` file, containing the information you'll need, such as color palette and fonts.
